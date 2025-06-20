@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shiv Mundhe</h1>
-<h3 align="center">Aspiring Developer | Python & Java Learner | Gamer 🎮</h3>
+<h3 align="center">Aspiring Developer | Python & Java Learner | </h3>
 
 - 🔭 I’m currently working on **a voice assistant project**
 - 🌱 I’m currently learning **Python, Java, and Web Development**

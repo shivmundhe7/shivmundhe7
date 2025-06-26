@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Python, Java, and Web Development**
 - 👯 I’m looking to collaborate on **cool open source & AI projects**
 - 🧠 I’m improving in **Python, AI, and automation tools**
-- 📫 Reach me at **shivmundhe7@gmail.com**
+- 📫 Reach me at **shivmundhe16@gmail.com**
 
 ---
 

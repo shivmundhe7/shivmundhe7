@@ -1,4 +1,3 @@
-  <p>★ &nbsp;<img src="https://wakatime.com/badge/user/5ed0280b-c15f-426f-875a-b1733853fb85.svg" alt="wakatime badge"/> &nbsp; &nbsp;★ &nbsp;
 
 
 <h1 align="center">Hi 👋, I'm Shiv Mundhe</h1>
@@ -11,6 +10,12 @@
 - 📫 Reach me at **shivmundhe16@gmail.com**
 
 ---
+## ⌛ My Coding Stats
+
+
+
+[![wakatime](https://wakatime.com/badge/user/5ed0280b-c15f-426f-875a-b1733853fb85.svg)](https://wakatime.com/@5ed0280b-c15f-426f-875a-b1733853fb85)
+
 
 ### 🛠️ Tech Stack
 - 💻 Python | Java | JavaScript | HTML | CSS

@@ -14,7 +14,7 @@
 
 
 
-[![wakatime](https://wakatime.com/badge/user/5ed0280b-c15f-426f-875a-b1733853fb85.svg)
+![wakatime]<a href="https://wakatime.com/@5ed0280b-c15f-426f-875a-b1733853fb85"><img src="https://wakatime.com/badge/user/5ed0280b-c15f-426f-875a-b1733853fb85.svg" alt="Total time coded since Jun 22 2025" /></a>
 
 
 ### 🛠️ Tech Stack

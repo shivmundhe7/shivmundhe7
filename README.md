@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shiv Mundhe</h1>
 <h3 align="center">💻 Aspiring Developer | 🌱 Lifelong Learner | 🚀 Tech Explorer</h3>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/L0w6wDbp7G6Z3sP0K4/giphy.gif" width="600"/>
+</p>
+
 ---
 
 ### 🌟 About Me
@@ -12,18 +16,21 @@
 
 ---
 
-## ⌛ My Coding Stats
-<a href="https://wakatime.com/@5ed0280b-c15f-426f-875a-b1733853fb85">
-  <img src="https://wakatime.com/badge/user/5ed0280b-c15f-426f-875a-b1733853fb85.svg" alt="Total time coded since Jun 22 2025" />
-</a>
+### 💼 My Projects
+- [BeatBox Web App](https://github.com/shivmundhe7/BeatBox) - Music player using HTML, CSS & JS
+- [NotesHub](https://github.com/shivmundhe7/NotesHub) - Notes sharing platform with Firebase
+- [Voice Assistant](https://github.com/shivmundhe7/VoiceAssistant) - AI-powered voice assistant
 
 ---
 
 ### 🛠️ Tech Stack
-- 💻 Languages: **Python | Java | JavaScript | HTML | CSS**
-- ⚙️ Tools: **Git | GitHub | VS Code**
-- 🧠 Domains: **AI Tools | Voice Automation**
-- 📱 Others: **Android Apps (Java) | UI Development**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -35,6 +42,22 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivmundhe7&layout=compact&theme=radical" alt="top-langs" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shivmundhe7&theme=radical&column=7" />
+</p>
+
+---
+
+### 🌱 Currently Learning
+- AI & Machine Learning
+- Advanced Python & Automation
+- Full Stack Web Development
+
+### 🎯 Goals
+- Contribute to Open Source Projects
+- Build AI-powered apps
+- Level up my GitHub streaks 🚀
 
 ---
 
@@ -53,4 +76,5 @@
 </p>
 
 ---
+
 ⭐️ From [shivmundhe7](https://github.com/shivmundhe7)

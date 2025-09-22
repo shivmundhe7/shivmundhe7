@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shiv Mundhe</h1>
 <h3 align="center">💻 Aspiring Developer | 🌱 Lifelong Learner | 🚀 Tech Explorer</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L0w6wDbp7G6Z3sP0K4/giphy.gif" width="600"/>
-</p>
-
 ---
 
 ### 🌟 About Me
@@ -13,13 +9,6 @@
 - 🧠 Improving in **AI, Python, and Voice Assistants**
 - 📫 Reach me at: **shivmundhe16@gmail.com**
 - ⚡ Fun fact: I love building **projects that solve real-world problems**
-
----
-
-### 💼 My Projects
-- [BeatBox Web App](https://github.com/shivmundhe7/BeatBox) - Music player using HTML, CSS & JS
-- [NotesHub](https://github.com/shivmundhe7/NotesHub) - Notes sharing platform with Firebase
-- [Voice Assistant](https://github.com/shivmundhe7/VoiceAssistant) - AI-powered voice assistant
 
 ---
 

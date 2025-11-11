@@ -34,16 +34,16 @@
 
 ### 📈 GitHub Insights  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivmundhe7&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivmundhe7&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivmundhe7&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="160" />
+  <img src="https://streak-stats.demolab.com?user=shivmundhe7&theme=tokyonight&hide_border=true&border_radius=10" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivmundhe7&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivmundhe7&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivmundhe7&theme=tokyonight&margin-w=10&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shivmundhe7&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
 ---

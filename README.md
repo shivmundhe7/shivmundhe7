@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://wakatime.com/">
-    <img src="https://wakatime.com/badge/user/5ed0280b-c15f-426f-875a-b1738353fb85.svg" alt="WakaTime" />
+    <a href="https://wakatime.com/@5ed0280b-c15f-426f-875a-b1733853fb85"><img src="https://wakatime.com/badge/user/5ed0280b-c15f-426f-875a-b1733853fb85.svg" alt="Total time coded since Jun 22 2025" /></a>
   </a>
 </p>
 
